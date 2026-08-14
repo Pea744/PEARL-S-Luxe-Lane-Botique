@@ -66,3 +66,50 @@ Pearl's Luxe Lane Boutique
 
 PEARL NTHIPANA MANAKA
 
+## Student Information
+
+Student Name: Pearl Nthipana Manaka  
+Module: WEDE5020  
+Project: Pearl's Luxe Lane Boutique
+
+## Website Goals and Objectives
+
+The goal of the website is to create a modern, attractive and user-friendly online fashion boutique for young adult women and girls in emerging adulthood.
+
+The objectives are to:
+- Display fashionable clothing and accessories.
+- Allow users to browse different product categories.
+- Provide clear information about the boutique.
+- Allow users to make product enquiries.
+- Provide contact information for the boutique.
+- Create an easy-to-navigate and visually appealing website.
+
+## Timeline and Milestones
+
+### Part 1
+- Project planning and proposal
+- Website structure and page planning
+- Creation of HTML pages
+- Creation of CSS styling
+- Adding product images
+- Creating navigation between pages
+- Creating the enquiry and contact pages
+- Testing website links and images
+- Setting up the GitHub repository
+
+## Changelog
+
+### Initial Version
+- Created the Pearl's Luxe Lane Boutique website.
+- Added Home, About, Products, Enquiry and Contact pages.
+- Added product categories and images.
+- Added navigation between pages.
+- Added CSS styling.
+- Added enquiry form and contact information.
+- Added README documentation.
+- Uploaded the project to the private GitHub repository.
+
+## References
+
+- MDN Web Docs. HTML and CSS documentation. https://developer.mozilla.org/en-US/
+- GitHub Docs. Repository and README documentation. https://docs.github.com/
